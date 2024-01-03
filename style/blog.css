@@ -39,12 +39,13 @@
     padding: 30px;
     width: 40%;
     /* text-align: center; */
-    background-image: url('../222222.jpg');
+    /* background-image: url('../222222.jpg'); */
     color: rgb(220, 233, 222);
     font-size: large;
     /* font-style: ; */
     background-position: 50px;
     background-size: 5px;
+    background-image: url(222222.jpg);
     
 }
 .im{
@@ -52,7 +53,7 @@
     /* background-color: bisque; */
     /* background-image: url("desktop-wallpaper-hamburger-fast-food-food-bottle-vegetables.jpg"); */
     /* background-image: url("../hot-delicious-kacchi-biryani-dish-260nw-2328685737.webp"); */
-    background-image: url('../fgsdfgdsg.jpg');
+    background-image: url(jjjjjj.jpg);
     /* background-image: url('../222222.jpg'); */
     /* background-image: url('../333333.webp'); */
     /* background-repeat: no-repeat; */
@@ -61,6 +62,7 @@
     /* background-size: cover; */
     /* background-size: contain; */
     /* background-size: 200px; */
+    /* background-image: url(download.jpg); */
 }
 .hhh{
     border: 2px solid rgb(219, 210, 210) ;
@@ -136,9 +138,9 @@
     margin: 10px 380px;
 }
 .ff{
-    border: 2px solid rgb(219, 210, 210) ;
+    /* border: 2px solid rgb(219, 210, 210) ;
     padding: 10px;
     background-color: bisque;
     width: 8%;
-    margin: 10px 550px;
+    margin: 10px 550px; */
 }
